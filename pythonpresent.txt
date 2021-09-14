@@ -1,0 +1,4 @@
+218.30.103.62 - - [17/may/2015:11:05:37 +0000] "get /blog/geekery/c-vs-python-bdb.html http/1.1" 200 11388 "-" "sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+iam good
+i am hero
+i can do anything
