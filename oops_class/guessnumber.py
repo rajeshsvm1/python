@@ -1,5 +1,5 @@
 import random
-num=random.randint(1,100)
+num=random.randint(1,10)
 # print(num)
 while True:
     a=int(input("Enter the number: "))
