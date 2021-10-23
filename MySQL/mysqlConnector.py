@@ -9,7 +9,7 @@ mydb=mysql.connector.connect(host="localhost",user="rajesh",passwd="3327912",dat
 # # userid.execute("use ")
 # # # print(mycusrsor): multiple commmands will not work.
 mycusrsor=mydb.cursor()
-mycusrsor.execute("select* from persons where name=('rajesh')")
+mycusrsor.execute("select* from student where name=('rajesh')")
 # m=[]
 print("id and name")
 for i in mycusrsor:
